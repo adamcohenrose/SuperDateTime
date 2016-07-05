@@ -1,0 +1,17 @@
+<extensions>
+  <details>
+    <title lang="EN">SuperDateTime Plugin</title>
+  </details>
+  <plugins>
+    <plugin name="SuperDateTime" version="5.9.16" minTarget="7.4" maxTarget="*">
+      <title lang="EN">SuperDateTime</title>
+      <desc lang="EN">Greg Brown's SuperDateTime</desc>
+      <url>
+        https://raw.github.com/adamcohenrose/SuperDateTime/master/SuperDateTime.zip
+      </url>
+      <link>https://github.com/adamcohenrose/SuperDateTime</link>
+      <sha>8cd76d0ce457d2c4265901a5acc2de20cbc51c38</sha>
+      <creator>Greg Brown</creator>
+    </plugin>
+  </plugins>
+</extensions>
